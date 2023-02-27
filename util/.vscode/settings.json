@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Downloads\\hutool-all-5.8.3.jar",
+        "d:\\Downloads\\fastjson-1.2.68.jar"
+    ]
+}
